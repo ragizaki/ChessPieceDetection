@@ -1,5 +1,7 @@
 # TensorFlow CNN for Chess Piece Detection
 
+[Kaggle Link](https://www.kaggle.com/code/zakimachfj/chess-piece-detection)
+
 This is an investigation into creating a CNN (Convolutional Neural Network) to classify 3D pictures of chess pieces into one of 13 categories (2 of the following for white and black creates 12 classes, and one extra class for empty square).
 
 - Pawn
