@@ -14,6 +14,9 @@ I created a CNN model in TensorFlow, and leveraged transfer learning on the VGG1
 ## Data Visualizations
 <img width="546" alt="image" src="https://github.com/ragizaki/ChessPieceDetection/assets/43770239/acbb3788-a151-4b32-8c58-b8ab2fc9fb1a">
 
+<img width="478" alt="image" src="https://github.com/ragizaki/ChessPieceDetection/assets/43770239/88620fa8-52da-4ba1-be4c-f0ce35fffb9d">
+
+
 
 I implemented many different algorithms to improve performance and prevent overfitting.
 
