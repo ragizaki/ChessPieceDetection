@@ -11,6 +11,10 @@ This is an investigation into creating a CNN (Convolutional Neural Network) to c
 
 I created a CNN model in TensorFlow, and leveraged transfer learning on the VGG16 model trained on ImageNet to improve performance and prevent overfitting. I implemented 2 convolutional layers and one Global max pooling layer to flatten the neurons before the classification head, which consisted of a dense layer with the softmax activation.
 
+## Data Visualizations
+<img width="546" alt="image" src="https://github.com/ragizaki/ChessPieceDetection/assets/43770239/acbb3788-a151-4b32-8c58-b8ab2fc9fb1a">
+
+
 I implemented many different algorithms to improve performance and prevent overfitting.
 
 1. Image augmentation to account for small dataset (horizontal flipping, blurring and stretching)
